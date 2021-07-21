@@ -1,4 +1,4 @@
-# **Reconstrução da página inicial do Instagram.**
+# **Reconstrução da página inicial do Instagram.** ![css_original](https://user-images.githubusercontent.com/83181304/126531782-7181bfde-3cdc-44ae-95e7-cd76f1c715db.png)
 
 ### DESCRIÇÃO
 
